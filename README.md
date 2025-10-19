@@ -5,7 +5,8 @@
 Features:
 Uses SerAPi and Dehashed api 
 
-usage:
+# Usage:
+
 Clone:
 ```
 git clone https://github.com/Kvngtheta/Osint-Scrubber-Ducky.git
