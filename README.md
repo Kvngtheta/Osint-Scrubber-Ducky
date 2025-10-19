@@ -6,7 +6,16 @@ Features:
 Uses SerAPi and Dehashed api 
 
 usage:
+Clone:
+```
+git clone https://github.com/Kvngtheta/Osint-Scrubber-Ducky.git
+```
+Start venv
+```
+source ~/path/to/venv/
+```
 
+Run:
 ```
 python3 Osint-scrubber-ducky.pt \
 --company <insert company name> \
