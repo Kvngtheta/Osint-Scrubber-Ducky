@@ -21,7 +21,7 @@ Run:
 python3 Osint-scrubber-ducky.pt \
 --company <insert company name> \
 --serpapi <insert apikey> \
---dehashed_email <your email> \# email address that registered with your api key
+--dehashed_email <your email> \ # email address that registered with your api key
 --dehashed_key <insert apikey> \
 --output results.json \ 
 ```
